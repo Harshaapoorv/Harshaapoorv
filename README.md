@@ -1,9 +1,4 @@
-
-    <head>
-        <title>My Website</title>
-    </head>
-    <body>
-        <h2>Hi there 👋</h2>
+<h2>Hi there 👋</h2>
         <div>
             <ul>
                 <li>🔭 I’m currently working as React Native developer at TCS</li>
@@ -22,4 +17,3 @@
                 <li>👯 I'm looking to collaborate on Mobile Application Development or Machine Learning projects</li>
             </ul>
         </div>
-    </body>
