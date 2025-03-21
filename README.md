@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working as React Native developer at TCS
+- <img src = "https://cdn0.iconfinder.com/data/icons/website-design-4/468/window_screen_with_mobile_icon-1024.png" />I develop mobile apps for both Android and iOS
+- I also love python and I am very much interested to work on Python/AI/ML
+- 👯 I'm looking to collaborate on Mobile Application Development or Machine Learning projects
+
 <!--
 **Harshaapoorv/Harshaapoorv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
