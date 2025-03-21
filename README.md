@@ -3,17 +3,14 @@
             <ul>
                 <li>🔭 I’m currently working as React Native developer at TCS</li>
                 <li>
-                    <div style="height:21px; display:  flex; flex-direction: row; column-gap: 4px; align-items: center;">
                         <img src = "https://cdn0.iconfinder.com/data/icons/website-design-4/468/window_screen_with_mobile_icon-1024.png" width=15 height=15/>
-                        <p>I develop mobile apps for both Android and iOS</p>
-                    </div>
+                        I develop mobile apps for both Android and iOS
                 </li>
                 <li>
-                    <div style="height:21px;display: flex; flex-direction: row; column-gap: 4px; align-items: center;">
                         <img src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"  width=15 height=15/> 
-                        <p>I also love python and I am very much interested to work on Python/AI/ML</p>
-                    </div>
+                        I also love python and I am very much interested to work on Python/AI/ML
                 </li>
                 <li>👯 I'm looking to collaborate on Mobile Application Development or Machine Learning projects</li>
+                    <a href="https://github.com/Harshaapoorv/Harshaapoorv/blob/main/HarshaApoorvMerapureddy_FrontEnd_Developer_Resume.docx">Resume</a>
             </ul>
         </div>
