@@ -11,7 +11,7 @@
                         I also love python and I am very much interested to work on Python/AI/ML
                 </li>
                 <li>👯 I'm looking to collaborate on Mobile Application Development or Machine Learning projects</li>
-                    - [Resume]("https://github.com/Harshaapoorv/Harshaapoorv/blob/main/HarshaApoorvMerapureddy_FrontEnd_Developer_Resume.pdf")
+                    - [Resume](https://github.com/Harshaapoorv/Harshaapoorv/blob/main/HarshaApoorvMerapureddy_FrontEnd_Developer_Resume.pdf)
                 <a href="https://github.com/Harshaapoorv/Harshaapoorv/blob/main/HarshaApoorvMerapureddy_FrontEnd_Developer_Resume.pdf" target="_blank">Resume </a>    <a href="https://www.linkedin.com/in/harshaapoorv/" target="_blank">LinkedIn</a>
             </ul>
         </div>
