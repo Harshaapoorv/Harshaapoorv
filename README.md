@@ -11,6 +11,6 @@
                         I also love python and I am very much interested to work on Python/AI/ML
                 </li>
                 <li>👯 I'm looking to collaborate on Mobile Application Development or Machine Learning projects</li>
-                    Resume <a target="_blank" href="https://github.com/Harshaapoorv/Harshaapoorv/blob/main/HarshaApoorvMerapureddy_FrontEnd_Developer_Resume.docx">Docx</a> <a href="https://github.com/Harshaapoorv/Harshaapoorv/blob/main/HarshaApoorvMerapureddy_FrontEnd_Developer_Resume.pdf" target="_blank">PDF</a>
+                Resume <a target="_blank" href="https://github.com/Harshaapoorv/Harshaapoorv/blob/main/HarshaApoorvMerapureddy_FrontEnd_Developer_Resume.docx">Docx</a> <a href="https://github.com/Harshaapoorv/Harshaapoorv/blob/main/HarshaApoorvMerapureddy_FrontEnd_Developer_Resume.pdf" target="_blank">PDF</a>
             </ul>
         </div>
