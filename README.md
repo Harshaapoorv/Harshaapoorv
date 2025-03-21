@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
     <head>
         <title>My Website</title>
     </head>
@@ -23,4 +23,3 @@
             </ul>
         </div>
     </body>
-</html>
