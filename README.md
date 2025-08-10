@@ -18,4 +18,4 @@
 
 
 
-[Resume](https://github.com/Harshaapoorv/Harshaapoorv/blob/main/HarshaApoorvMerapureddy_FrontEnd_Developer_Resume.pdf)    [LinkedIn](https://www.linkedin.com/in/harshaapoorv/)
+[Resume](https://github.com/Harshaapoorv/Harshaapoorv/blob/main/HarshaApoorv_FrontEnd_Developer_Resume.pdf)    [LinkedIn](https://www.linkedin.com/in/harshaapoorv/)
