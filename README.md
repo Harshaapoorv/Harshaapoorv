@@ -195,7 +195,16 @@ A modern cross-platform note-taking application built with React Native, featuri
 
 ### 🔗 Repository
 
-**GitHub:** https://github.com/Harshaapoorv/NotesApp
+**GitHub:** 
+<p>
+
+<a href="https://github.com/Harshaapoorv/NotesApp">
+
+<img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
 
 ---
 
