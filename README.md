@@ -1,48 +1,154 @@
-# Hi, I'm Harsha Apoorv 👋
+<div align="center">
 
-### Mobile Application Engineer | React Native • FastAPI • Python
+# 👋 Hi, I'm Harsha Apoorv
 
-I'm passionate about building production-ready mobile applications and scalable backend systems with a strong focus on clean architecture, performance, and user experience.
+### Mobile Application Engineer • React Native • Python • FastAPI
 
-## 🚀 What I'm Working On
+Building production-ready mobile applications with clean architecture, scalable backends, and delightful user experiences.
 
-- 📱 Building cross-platform mobile applications using **React Native**
-- ⚡ Developing scalable REST APIs with **FastAPI** and **PostgreSQL**
-- 🔐 Implementing secure authentication with **JWT**, **Google OAuth**, and **OTP Verification**
-- 🤖 Exploring **AI-powered features** and intelligent mobile experiences
+<p>
+  <a href="https://www.harshaapoorv.com">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-5C8D6D?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/harshaapoorv/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Harshaapoorv/Harshaapoorv/blob/main/HarshaApoorv_React_Native_Developer_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge" />
+  </a>
+</p>
 
-## 💻 Tech Stack
+</div>
 
-**Frontend**
+---
 
-React Native • JavaScript • Redux Toolkit • RTK Query • React Navigation
+# 🚀 About Me
 
-**Backend**
+I'm a **Mobile Application Engineer** specializing in **React Native** with experience building production-ready applications used by thousands of users.
 
-Python • FastAPI • SQLAlchemy • PostgreSQL • Alembic
+I enjoy designing scalable backend systems with **FastAPI**, creating intuitive mobile experiences, and exploring AI-powered applications. I believe great software combines clean architecture, thoughtful design, and excellent user experience.
 
-**Authentication**
+---
 
-JWT • Google OAuth • Refresh Tokens • Resend Email API
+# 💻 Tech Stack
 
-**Tools**
+## 📱 Mobile Development
 
-Git • GitHub • Render • Neon Database • Android Studio • Xcode
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,ts" />
+</p>
 
-## 🌟 Featured Projects
+**React Native • JavaScript • TypeScript • Redux Toolkit • RTK Query • React Navigation**
 
-- 📒 **NotesApp** — Production-ready React Native notes application with secure authentication, rich text editing, cloud synchronization, and Excel export.
-- ⚙️ **NotesApp Backend** — FastAPI backend featuring JWT authentication, Google OAuth, PostgreSQL, Alembic migrations, and modular architecture.
+---
 
-## 🌱 Currently Learning
+## ⚙️ Backend
 
-- Backend System Design
-- Scalable API Architecture
-- AI Integrations for Mobile Applications
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres" />
+</p>
 
-## 🤝 Let's Connect
+**Python • FastAPI • PostgreSQL • SQLAlchemy • Alembic**
 
-<div align="space-between">
-<p>🌐 [Portfolio](https://www.harshaapoorv.com)</p> <p>💼 [LinkedIn](https://www.linkedin.com/in/harshaapoorv/)</p> <p>📄 [Resume](https://github.com/Harshaapoorv/Harshaapoorv/blob/main/HarshaApoorv_React_Native_Developer_Resume.pdf)</p></div>
+---
 
-Thanks for visiting my profile! ⭐
+## 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,apple" />
+</p>
+
+**Git • GitHub • Android Studio • Xcode • Render • Neon**
+
+---
+
+# 🌟 Featured Projects
+
+## 📒 NotesApp
+
+> A full-stack cross-platform notes application featuring secure authentication, cloud sync, offline support, and a polished React Native experience.
+
+**Tech**
+
+`React Native` `Redux Toolkit` `Google OAuth`
+
+🔗 Repository: https://github.com/HarshaApoorv/NotesApp
+
+---
+
+## ⚙️ NotesApp Backend
+
+> Production-ready FastAPI backend featuring JWT authentication, Google OAuth, PostgreSQL, Alembic migrations, and RESTful APIs.
+
+**Tech**
+
+`Python` `FastAPI` `PostgreSQL`
+
+🔗 Repository: https://github.com/HarshaApoorv/NotesBackend
+
+---
+
+## 📱 Nest Pension (TCS)
+
+> Contributed production-ready React Native features for the official Nest Pension mobile application.
+
+**Tech**
+
+`React Native` `Redux Toolkit` `Android/iOS`
+
+---
+
+## 🧮 React Native Calculator
+
+> Modern calculator showcasing reusable components, custom hooks, clean architecture, and theme support.
+
+**Tech**
+
+`React Native` `Context API` `Custom Hooks`
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HarshaApoorv&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaApoorv&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=HarshaApoorv&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- 🏗️ Backend System Design
+- ⚡ Scalable API Architecture
+- 🤖 AI Integrations for Mobile Applications
+- 📱 Advanced React Native Performance Optimization
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+<a href="https://www.harshaapoorv.com">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/harshaapoorv/">LinkedIn</a> •
+<a href="mailto:YOUR_EMAIL">Email</a>
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for stopping by! ⭐
+
+*"Code is more than functionality—it's an experience."*
+
+</div>
