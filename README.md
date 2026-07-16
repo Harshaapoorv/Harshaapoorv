@@ -195,7 +195,7 @@ A modern cross-platform note-taking application built with React Native, featuri
 
 ### 🔗 Repository
 
-**GitHub:** <p>
+<p>
 
 <a href="https://github.com/Harshaapoorv/NotesApp">
 
@@ -253,7 +253,7 @@ Scalable FastAPI backend powering the complete NotesApp ecosystem with secure au
 
 ### 🔗 Repository
 
-**GitHub:** <p>
+<p>
 
 <a href="https://github.com/Harshaapoorv/notes-backend">
 
@@ -289,7 +289,7 @@ A modern calculator application showcasing reusable components, custom hooks, th
 
 ### 🔗 Repository
 
-**GitHub:** <p>
+<p>
 
 <a href="https://github.com/Harshaapoorv/MyCalculator">
 
@@ -325,7 +325,7 @@ Personal portfolio website showcasing my professional experience, featured proje
 
 ### 🔗 Website
 
-**Live:** <p>
+<p>
 
 <a href="https://www.harshaapoorv.com">
 
@@ -337,7 +337,7 @@ Personal portfolio website showcasing my professional experience, featured proje
 
 ### 🔗 Repository
 
-**GitHub:** <p>
+<p>
 
 <a href="https://github.com/Harshaapoorv/harshaapoorv-portfolio">
 
@@ -348,3 +348,119 @@ Personal portfolio website showcasing my professional experience, featured proje
 </p>
 
 ---
+
+# 🏗️ NotesApp Ecosystem
+
+The NotesApp ecosystem follows a layered architecture, separating the mobile application from backend services while maintaining secure authentication and scalable cloud infrastructure.
+
+```mermaid
+flowchart TD
+
+    A["📱 React Native App"]
+
+    A -->|"HTTPS + JWT"| B["⚡ FastAPI Backend"]
+
+    B --> C["🔐 Authentication"]
+    B --> D["📝 Notes Service"]
+    B --> E["⚙️ App Configuration"]
+
+    C --> F["SQLAlchemy ORM"]
+    D --> F
+    E --> F
+
+    F --> G["🐘 PostgreSQL (Neon)"]
+
+    B --> H["📧 Resend Email API"]
+    B --> I["🌐 Google OAuth"]
+
+    B --> J["☁️ Render Deployment"]
+```
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harshaapoorv&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harshaapoorv&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Harshaapoorv&theme=transparent&hide_border=true"/>
+
+</div>
+
+> *GitHub statistics are automatically updated to reflect my latest contributions and public repositories.*
+
+---
+
+# 📚 Currently Learning
+
+I'm continuously investing time in improving both mobile and backend engineering skills.
+
+### Currently Exploring
+
+- 🏗️ Backend System Design
+- ☁️ Distributed Systems
+- 🤖 AI for Mobile Applications
+- ⚡ Cloud Architecture
+- 🧠 Performance Optimization
+- 🔒 Mobile Security Best Practices
+
+---
+
+# 🛣️ Roadmap
+
+Here's what I'm currently building and planning next.
+
+- [x] 📒 NotesApp (React Native)
+- [x] ⚙️ NotesApp Backend
+- [x] 🌐 Personal Portfolio
+- [x] 🧮 React Native Calculator
+- [ ] 🤖 AI-powered Notes Assistant
+- [ ] 🖥️ Notes Desktop Application
+- [ ] 🐳 Dockerized Deployment
+- [ ] ☁️ CI/CD Pipeline
+- [ ] 📊 Analytics Dashboard
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.harshaapoorv.com">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harshaapoorv/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/HarshaApoorv/HarshaApoorv/blob/main/HarshaApoorv_React_Native_Developer_Resume.pdf">
+<img src="https://img.shields.io/badge/Resume-Download-E63946?style=for-the-badge&logo=adobeacrobatreader"/>
+</a>
+
+<a href="mailto:harsha.apoorv@harshaapoorv.com">
+<img src="https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## Thanks for stopping by! 👋
+
+I'm always excited to collaborate on **React Native**, **Backend Engineering**, and **AI-powered applications**.
+
+If you enjoyed exploring my work, feel free to ⭐ my repositories or connect with me.
+
+Happy Coding! 🚀
+
+</div>
