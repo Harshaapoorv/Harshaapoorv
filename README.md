@@ -195,8 +195,7 @@ A modern cross-platform note-taking application built with React Native, featuri
 
 ### 🔗 Repository
 
-**GitHub:** 
-<p>
+**GitHub:** <p>
 
 <a href="https://github.com/Harshaapoorv/NotesApp">
 
@@ -205,6 +204,7 @@ A modern cross-platform note-taking application built with React Native, featuri
 </a>
 
 </p>
+
 
 ---
 
@@ -253,7 +253,15 @@ Scalable FastAPI backend powering the complete NotesApp ecosystem with secure au
 
 ### 🔗 Repository
 
-**GitHub:** https://github.com/Harshaapoorv/notes-backend
+**GitHub:** <p>
+
+<a href="https://github.com/Harshaapoorv/notes-backend">
+
+<img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
 
 ---
 
@@ -281,7 +289,15 @@ A modern calculator application showcasing reusable components, custom hooks, th
 
 ### 🔗 Repository
 
-**GitHub:** https://github.com/Harshaapoorv/MyCalculator
+**GitHub:** <p>
+
+<a href="https://github.com/Harshaapoorv/MyCalculator">
+
+<img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
 
 ---
 
@@ -309,6 +325,26 @@ Personal portfolio website showcasing my professional experience, featured proje
 
 ### 🔗 Website
 
-**Live:** https://www.harshaapoorv.com
+**Live:** <p>
+
+<a href="https://www.harshaapoorv.com">
+
+<img src="https://img.shields.io/badge/Live_Website-Visit-2563EB?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+### 🔗 Repository
+
+**GitHub:** <p>
+
+<a href="https://github.com/Harshaapoorv/harshaapoorv-portfolio">
+
+<img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
 
 ---
