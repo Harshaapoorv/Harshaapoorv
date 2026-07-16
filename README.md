@@ -162,3 +162,144 @@ Beyond frontend development, I design secure backend services with **FastAPI** a
 **Tech**
 
 `React Native` `Redux Toolkit` `JavaScript`
+
+---
+
+# 🌟 Featured Projects
+
+---
+
+## 📒 NotesApp
+
+<a href="https://github.com/Harshaapoorv/NotesApp">
+
+<img width="1774" height="887" alt="NotesApp Banner" src="https://github.com/user-attachments/assets/c05d0923-ce6e-4df2-a9fb-203289d64f8a" />
+
+</a>
+
+A modern cross-platform note-taking application built with React Native, featuring secure authentication, offline support, cloud synchronization, and rich text editing.
+
+### ✨ Highlights
+
+- 🔐 Secure JWT Authentication
+- 🌐 Google Sign-In
+- ☁️ Cloud Synchronization
+- 📱 Offline Support
+- 📝 Rich Text Editor
+- ⭐ Starred Notes
+- 📤 Excel Export
+
+### 🛠 Tech Stack
+
+`React Native` `Redux Toolkit` `Google OAuth`
+
+### 🔗 Repository
+
+**GitHub:** https://github.com/Harshaapoorv/NotesApp
+
+---
+
+## 📱 Nest Pension App (TCS)
+
+Official mobile application for one of the UK's largest workplace pension providers.
+
+Contributed to the React Native application by delivering enterprise features, improving performance, and supporting multiple production releases for thousands of users.
+
+### ✨ Highlights
+
+- 📱 Cross-platform mobile development
+- ⚡ Redux Toolkit & RTK Query
+- 🚀 Multiple enterprise releases
+- 🎯 Performance optimization
+- 🏗️ Scalable mobile architecture
+
+### 🛠 Tech Stack
+
+`React Native` `Redux Toolkit` `Android/iOS`
+
+---
+
+## ⚙️ NotesApp Backend
+
+<a href="https://github.com/Harshaapoorv/notes-backend">
+
+<img width="1780" height="883" alt="Notes Backend Banner" src="https://github.com/user-attachments/assets/019e5a3f-b3b8-4947-8b7a-550af6cd9f3d" />
+
+</a>
+
+Scalable FastAPI backend powering the complete NotesApp ecosystem with secure authentication, REST APIs, and cloud-native architecture.
+
+### ✨ Highlights
+
+- 🔐 JWT Authentication
+- 🌐 Google OAuth
+- 📧 OTP Email Verification
+- ⚡ RESTful APIs
+- 🗄️ PostgreSQL Database
+- 📚 Interactive Swagger Documentation
+
+### 🛠 Tech Stack
+
+`Python` `FastAPI` `PostgreSQL`
+
+### 🔗 Repository
+
+**GitHub:** https://github.com/Harshaapoorv/notes-backend
+
+---
+
+## 🧮 React Native Calculator
+
+<a href="https://github.com/Harshaapoorv/MyCalculator">
+
+<img width="1828" height="860" alt="Calculator Banner" src="https://github.com/user-attachments/assets/17fb298d-f5ab-41d2-a125-0e2f93780947" />
+
+</a>
+
+A modern calculator application showcasing reusable components, custom hooks, theme management, and clean React Native architecture.
+
+### ✨ Highlights
+
+- 🌓 Light & Dark Themes
+- 🧠 Custom Hooks
+- 🎨 Responsive UI
+- ➗ Accurate Calculations
+- 🏗️ Clean Architecture
+
+### 🛠 Tech Stack
+
+`React Native` `Context API` `Custom Hooks`
+
+### 🔗 Repository
+
+**GitHub:** https://github.com/Harshaapoorv/MyCalculator
+
+---
+
+## 🌐 Portfolio Website
+
+<a href="https://www.harshaapoorv.com">
+
+<img width="1440" height="809" alt="Portfolio Banner" src="https://github.com/user-attachments/assets/1f04dcd4-c1f2-4ef6-9b96-3fd904eb8203" />
+
+</a>
+
+Personal portfolio website showcasing my professional experience, featured projects, technical expertise, and software engineering journey.
+
+### ✨ Highlights
+
+- 💼 Professional Experience
+- 🚀 Featured Projects
+- 📱 Responsive Design
+- ⚡ Fast Performance
+- 🎨 Modern UI
+
+### 🛠 Tech Stack
+
+`React` `Tailwind CSS` `JavaScript`
+
+### 🔗 Website
+
+**Live:** https://www.harshaapoorv.com
+
+---
