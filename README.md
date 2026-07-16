@@ -42,8 +42,6 @@ Git • GitHub • Render • Neon Database • Android Studio • Xcode
 
 ## 🤝 Let's Connect
 
-- 🌐 Portfolio: https://www.harshaapoorv.com
-- 💼 LinkedIn: https://www.linkedin.com/in/harshaapoorv/
-- 📄 Resume: https://github.com/Harshaapoorv/Harshaapoorv/blob/main/HarshaApoorv_React_Native_Developer_Resume.pdf
+🌐 [Portfolio](https://www.harshaapoorv.com) 💼 [LinkedIn](https://www.linkedin.com/in/harshaapoorv/) 📄 [Resume](https://github.com/Harshaapoorv/Harshaapoorv/blob/main/HarshaApoorv_React_Native_Developer_Resume.pdf)
 
 Thanks for visiting my profile! ⭐
