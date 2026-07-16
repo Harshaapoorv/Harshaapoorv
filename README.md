@@ -40,7 +40,7 @@ Building scalable mobile applications used by thousands of users while crafting 
 
 # 👨‍💻 About Me
 
-I'm a **Mobile Application Engineer** with nearly three years of experience building scalable cross-platform applications using **React Native**.
+I'm a **Mobile Application Engineer** with three years of experience building scalable cross-platform applications using **React Native**.
 
 I enjoy transforming ideas into polished products by combining clean architecture, reusable components, thoughtful user experiences, and high-performance mobile engineering.
 
@@ -55,3 +55,110 @@ Beyond frontend development, I design secure backend services with **FastAPI** a
 - ⚡ Designing modern FastAPI backend services
 - 🤖 Exploring AI-powered mobile experiences
 - ☁️ Learning distributed systems & cloud architecture
+
+---
+
+# 🛠️ Tech Stack
+
+### 📱 Mobile Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,ts,js"/>
+
+</p>
+
+**Core Technologies**
+
+`React Native` • `TypeScript` • `JavaScript`
+
+**State Management**
+
+`Redux Toolkit` • `RTK Query` • `Context API`
+
+**Navigation & Architecture**
+
+`React Navigation` • `Custom Hooks`
+
+---
+
+### ⚙️ Backend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres"/>
+
+</p>
+
+**Frameworks & Database**
+
+`FastAPI` • `PostgreSQL`
+
+**ORM & Migrations**
+
+`SQLAlchemy` • `Alembic`
+
+**API Development**
+
+`REST APIs` • `Pydantic`
+
+---
+
+### 🔐 Authentication & Security
+
+`JWT Authentication` • `Google OAuth` • `Refresh Tokens`
+
+`OTP Verification` • `Resend Email API`
+
+---
+
+### ☁️ Cloud & Dev Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma"/>
+
+</p>
+
+`Git` • `GitHub`
+
+`Render` • `Neon PostgreSQL`
+
+`Android Studio` • `Xcode`
+
+`VS Code` • `Figma`
+
+---
+
+# 💼 Professional Experience
+
+## 📱 Mobile Application Engineer
+
+### Tata Consultancy Services (TCS)
+
+**Jun 2023 – Present**
+
+- Built and enhanced production React Native features for the **Nest Pension** mobile application.
+- Delivered multiple enterprise mobile releases with a focus on performance, scalability, and maintainability.
+- Implemented modern state management using **Redux Toolkit** and **RTK Query**.
+- Collaborated across teams to deliver high-quality features and improve the overall mobile experience.
+
+**Tech**
+
+`React Native` `Redux Toolkit` `RTK Query` `JavaScript`
+
+---
+
+## 📱 React Native Developer
+
+### DuYu (Freelance)
+
+**Dec 2024 – May 2025**
+
+- Independently developed a cross-platform React Native application from concept to deployment.
+- Implemented secure authentication, responsive UI, and scalable application architecture.
+- Worked directly with stakeholders to translate business requirements into production features.
+
+**Tech**
+
+`React Native` `Redux Toolkit` `JavaScript`
