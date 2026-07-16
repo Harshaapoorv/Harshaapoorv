@@ -112,9 +112,9 @@ I enjoy designing scalable backend systems with **FastAPI**, creating intuitive 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshaapoorv&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harshaapoorv&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshaapoorv&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harshaapoorv&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
