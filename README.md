@@ -130,41 +130,6 @@ Beyond frontend development, I design secure backend services with **FastAPI** a
 
 ---
 
-# 💼 Professional Experience
-
-## 📱 Mobile Application Engineer
-
-### Tata Consultancy Services (TCS)
-
-**Jun 2023 – Present**
-
-- Built and enhanced production React Native features for the **Nest Pension** mobile application.
-- Delivered multiple enterprise mobile releases with a focus on performance, scalability, and maintainability.
-- Implemented modern state management using **Redux Toolkit** and **RTK Query**.
-- Collaborated across teams to deliver high-quality features and improve the overall mobile experience.
-
-**Tech**
-
-`React Native` `Redux Toolkit` `RTK Query` `JavaScript`
-
----
-
-## 📱 React Native Developer
-
-### DuYu (Freelance)
-
-**Dec 2024 – May 2025**
-
-- Independently developed a cross-platform React Native application from concept to deployment.
-- Implemented secure authentication, responsive UI, and scalable application architecture.
-- Worked directly with stakeholders to translate business requirements into production features.
-
-**Tech**
-
-`React Native` `Redux Toolkit` `JavaScript`
-
----
-
 # 🌟 Featured Projects
 
 ---
@@ -205,26 +170,6 @@ A modern cross-platform note-taking application built with React Native, featuri
 
 </p>
 
-
----
-
-## 📱 Nest Pension App (TCS)
-
-Official mobile application for one of the UK's largest workplace pension providers.
-
-Contributed to the React Native application by delivering enterprise features, improving performance, and supporting multiple production releases for thousands of users.
-
-### ✨ Highlights
-
-- 📱 Cross-platform mobile development
-- ⚡ Redux Toolkit & RTK Query
-- 🚀 Multiple enterprise releases
-- 🎯 Performance optimization
-- 🏗️ Scalable mobile architecture
-
-### 🛠 Tech Stack
-
-`React Native` `Redux Toolkit` `Android/iOS`
 
 ---
 
@@ -298,83 +243,6 @@ A modern calculator application showcasing reusable components, custom hooks, th
 </a>
 
 </p>
-
----
-
-## 🌐 Portfolio Website
-
-<a href="https://www.harshaapoorv.com">
-
-<img width="1440" height="809" alt="Portfolio Banner" src="https://github.com/user-attachments/assets/1f04dcd4-c1f2-4ef6-9b96-3fd904eb8203" />
-
-</a>
-
-Personal portfolio website showcasing my professional experience, featured projects, technical expertise, and software engineering journey.
-
-### ✨ Highlights
-
-- 💼 Professional Experience
-- 🚀 Featured Projects
-- 📱 Responsive Design
-- ⚡ Fast Performance
-- 🎨 Modern UI
-
-### 🛠 Tech Stack
-
-`React` `Tailwind CSS` `JavaScript`
-
-### 🔗 Website
-
-<p>
-
-<a href="https://www.harshaapoorv.com">
-
-<img src="https://img.shields.io/badge/Live_Website-Visit-2563EB?style=for-the-badge"/>
-
-</a>
-
-</p>
-
-### 🔗 Repository
-
-<p>
-
-<a href="https://github.com/Harshaapoorv/harshaapoorv-portfolio">
-
-<img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
----
-
-# 🏗️ NotesApp Ecosystem
-
-The NotesApp ecosystem follows a layered architecture, separating the mobile application from backend services while maintaining secure authentication and scalable cloud infrastructure.
-
-```mermaid
-flowchart TD
-
-    A["📱 React Native App"]
-
-    A -->|"HTTPS + JWT"| B["⚡ FastAPI Backend"]
-
-    B --> C["🔐 Authentication"]
-    B --> D["📝 Notes Service"]
-    B --> E["⚙️ App Configuration"]
-
-    C --> F["SQLAlchemy ORM"]
-    D --> F
-    E --> F
-
-    F --> G["🐘 PostgreSQL (Neon)"]
-
-    B --> H["📧 Resend Email API"]
-    B --> I["🌐 Google OAuth"]
-
-    B --> J["☁️ Render Deployment"]
-```
 
 ---
 
