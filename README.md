@@ -72,7 +72,7 @@ I enjoy designing scalable backend systems with **FastAPI**, creating intuitive 
 
 `React Native` `Redux Toolkit` `Google OAuth`
 
-🔗 Repository: https://github.com/HarshaApoorv/NotesApp
+🔗 [Repository](https://github.com/Harshaapoorv/NotesApp)
 
 ---
 
@@ -84,7 +84,7 @@ I enjoy designing scalable backend systems with **FastAPI**, creating intuitive 
 
 `Python` `FastAPI` `PostgreSQL`
 
-🔗 Repository: https://github.com/HarshaApoorv/NotesBackend
+🔗 [Repository](https://github.com/Harshaapoorv/notes-backend)
 
 ---
 
@@ -112,15 +112,15 @@ I enjoy designing scalable backend systems with **FastAPI**, creating intuitive 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HarshaApoorv&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshaapoorv&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaApoorv&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshaapoorv&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=HarshaApoorv&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Harshaapoorv&theme=transparent&hide_border=true"/>
 
 </div>
 
