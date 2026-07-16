@@ -171,7 +171,7 @@ Beyond frontend development, I design secure backend services with **FastAPI** a
 
 ## 📒 NotesApp
 
-<a href="https://github.com/Harshaapoorv/NotesApp">
+<a href="https://github.com/Harshaapoorv/NotesApp" target="_blank">
 
 <img width="1774" height="887" alt="NotesApp Banner" src="https://github.com/user-attachments/assets/c05d0923-ce6e-4df2-a9fb-203289d64f8a" />
 
@@ -197,7 +197,7 @@ A modern cross-platform note-taking application built with React Native, featuri
 
 <p>
 
-<a href="https://github.com/Harshaapoorv/NotesApp">
+<a href="https://github.com/Harshaapoorv/NotesApp" target="_blank">
 
 <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github"/>
 
@@ -230,7 +230,7 @@ Contributed to the React Native application by delivering enterprise features, i
 
 ## ⚙️ NotesApp Backend
 
-<a href="https://github.com/Harshaapoorv/notes-backend">
+<a href="https://github.com/Harshaapoorv/notes-backend" target="_blank">
 
 <img width="1780" height="883" alt="Notes Backend Banner" src="https://github.com/user-attachments/assets/019e5a3f-b3b8-4947-8b7a-550af6cd9f3d" />
 
@@ -255,7 +255,7 @@ Scalable FastAPI backend powering the complete NotesApp ecosystem with secure au
 
 <p>
 
-<a href="https://github.com/Harshaapoorv/notes-backend">
+<a href="https://github.com/Harshaapoorv/notes-backend" target="_blank">
 
 <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github"/>
 
@@ -267,7 +267,7 @@ Scalable FastAPI backend powering the complete NotesApp ecosystem with secure au
 
 ## 🧮 React Native Calculator
 
-<a href="https://github.com/Harshaapoorv/MyCalculator">
+<a href="https://github.com/Harshaapoorv/MyCalculator" target="_blank">
 
 <img width="1828" height="860" alt="Calculator Banner" src="https://github.com/user-attachments/assets/17fb298d-f5ab-41d2-a125-0e2f93780947" />
 
@@ -291,7 +291,7 @@ A modern calculator application showcasing reusable components, custom hooks, th
 
 <p>
 
-<a href="https://github.com/Harshaapoorv/MyCalculator">
+<a href="https://github.com/Harshaapoorv/MyCalculator" target="_blank">
 
 <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github"/>
 
@@ -303,7 +303,7 @@ A modern calculator application showcasing reusable components, custom hooks, th
 
 ## 🌐 Portfolio Website
 
-<a href="https://www.harshaapoorv.com">
+<a href="https://www.harshaapoorv.com" target="_blank">
 
 <img width="1440" height="809" alt="Portfolio Banner" src="https://github.com/user-attachments/assets/1f04dcd4-c1f2-4ef6-9b96-3fd904eb8203" />
 
@@ -327,7 +327,7 @@ Personal portfolio website showcasing my professional experience, featured proje
 
 <p>
 
-<a href="https://www.harshaapoorv.com">
+<a href="https://www.harshaapoorv.com" target="_blank">
 
 <img src="https://img.shields.io/badge/Live_Website-Visit-2563EB?style=for-the-badge"/>
 
@@ -339,7 +339,7 @@ Personal portfolio website showcasing my professional experience, featured proje
 
 <p>
 
-<a href="https://github.com/Harshaapoorv/harshaapoorv-portfolio">
+<a href="https://github.com/Harshaapoorv/harshaapoorv-portfolio" target="_blank">
 
 <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github"/>
 
