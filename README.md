@@ -111,9 +111,9 @@ Render • Neon PostgreSQL • Android Studio • Xcode • GitHub Actions
 
 ## 📒 NotesApp
 
-<a href="https://github.com/HarshaApoorv/NotesApp">
+<a href="https://github.com/Harshaapoorv/NotesApp">
 
-<img src="https://raw.githubusercontent.com/HarshaApoorv/HarshaApoorv/main/assets/notesapp-banner.png"/>
+<img width="1774" height="887" alt="notesapp" src="https://github.com/user-attachments/assets/c05d0923-ce6e-4df2-a9fb-203289d64f8a" />
 
 </a>
 
@@ -136,9 +136,9 @@ Render • Neon PostgreSQL • Android Studio • Xcode • GitHub Actions
 
 ## ⚙️ NotesApp Backend
 
-<a href="https://github.com/HarshaApoorv/NotesApp-Backend">
+<a href="https://github.com/Harshaapoorv/notes-backend">
 
-<img src="https://raw.githubusercontent.com/HarshaApoorv/HarshaApoorv/main/assets/backend-banner.png"/>
+<img width="1780" height="883" alt="notesbackend" src="https://github.com/user-attachments/assets/019e5a3f-b3b8-4947-8b7a-550af6cd9f3d" />
 
 </a>
 
@@ -161,9 +161,9 @@ Production-ready backend powering the Notes ecosystem.
 
 ## 🧮 React Native Calculator
 
-<a href="https://github.com/HarshaApoorv/Calculator">
+<a href="https://github.com/Harshaapoorv/MyCalculator">
 
-<img src="https://raw.githubusercontent.com/HarshaApoorv/HarshaApoorv/main/assets/calculator-banner.png"/>
+<img width="1828" height="860" alt="calculator" src="https://github.com/user-attachments/assets/17fb298d-f5ab-41d2-a125-0e2f93780947" />
 
 </a>
 
@@ -179,9 +179,9 @@ Beautiful calculator application demonstrating clean architecture and reusable R
 
 ## 🌐 Portfolio Website
 
-<a href="https://harshaapoorv.com">
+<a href="https://www.harshaapoorv.com">
 
-<img src="https://raw.githubusercontent.com/HarshaApoorv/HarshaApoorv/main/assets/portfolio-banner.png"/>
+<img width="1440" height="809" alt="portfolio" src="https://github.com/user-attachments/assets/1f04dcd4-c1f2-4ef6-9b96-3fd904eb8203" />
 
 </a>
 
@@ -254,20 +254,27 @@ A modern portfolio showcasing my professional experience, projects, and technica
 ---
 
 # 🏆 GitHub
-
-> *(Enable whichever widgets are working when you publish. Public instances sometimes go offline.)*
-
 <!-- GitHub Stats -->
-
+<div align="center">
 <!--
 <img height="170" src="YOUR_GITHUB_STATS"/>
 -->
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harshaapoorv&show_icons=true&theme=transparent&hide_border=true"/>
 
 <!-- Top Languages -->
 
 <!--
 <img height="170" src="YOUR_TOP_LANGUAGES"/>
 -->
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harshaapoorv&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Harshaapoorv&theme=transparent&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -275,7 +282,7 @@ A modern portfolio showcasing my professional experience, projects, and technica
 
 <p align="center">
 
-<a href="https://harshaapoorv.com">
+<a href="https://www.harshaapoorv.com">
 <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge"/>
 </a>
 
@@ -283,7 +290,7 @@ A modern portfolio showcasing my professional experience, projects, and technica
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:harsha.apoorv@harshaapoorv.com">
 <img src="https://img.shields.io/badge/Email-Contact-E63946?style=for-the-badge&logo=gmail"/>
 </a>
 
