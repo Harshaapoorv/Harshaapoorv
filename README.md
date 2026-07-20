@@ -26,7 +26,7 @@ Building scalable mobile applications used by thousands of users while crafting 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/HarshaApoorv/HarshaApoorv/blob/main/HarshaApoorv_React_Native_Developer_Resume.pdf">
+<a href="https://github.com/Harshaapoorv/Harshaapoorv/blob/main/Harsha_Apoorv_Merapureddy_React_Native_Developer_Resume.pdf">
 <img src="https://img.shields.io/badge/Resume-PDF-E63946?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 
