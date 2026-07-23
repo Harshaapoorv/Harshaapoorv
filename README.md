@@ -138,7 +138,7 @@ Beyond frontend development, I design secure backend services with **FastAPI** a
 
 <a href="https://github.com/Harshaapoorv/NotesApp">
 
-<img width="1774" height="887" alt="NotesApp Banner" src="https://github.com/user-attachments/assets/c05d0923-ce6e-4df2-a9fb-203289d64f8a" />
+<img width="1774" height="887" alt="NotesApp_Banner" src="https://github.com/user-attachments/assets/dc235799-82f7-45a0-87fd-b7117204bb61" />
 
 </a>
 
