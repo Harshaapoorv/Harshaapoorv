@@ -12,7 +12,7 @@ Building scalable mobile applications used by thousands of users while crafting 
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=React+Native+Developer;Mobile+Application+Engineer;FastAPI+Backend+Developer;Building+Scalable+Applications;Always+Learning+Something+New;Software+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;React+Native+Developer;Mobile+Application+Engineer;FastAPI+Backend+Developer;Building+Scalable+Applications;Always+Learning+Something+New"/>
 
 </p>
 
