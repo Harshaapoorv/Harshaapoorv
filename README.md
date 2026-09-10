@@ -40,7 +40,7 @@ Building scalable mobile applications used by thousands of users while crafting 
 
 # 👨‍💻 About Me
 
-I'm a **Mobile Application Engineer** with three years of experience building scalable cross-platform applications using **React Native**.
+I'm a **Software Engineer** with three years of experience building scalable cross-platform mobile applications using **React Native**.
 
 I enjoy transforming ideas into polished products by combining clean architecture, reusable components, thoughtful user experiences, and high-performance mobile engineering.
 
